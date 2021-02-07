@@ -10,7 +10,7 @@ that something you have written is a quotation (and who said it), the meaning of
 
 
 ## Headings :
-![img](/mnt/c/Users/engas/102/reading-notes/201/headings.jpg)
+![img](201/headings.jpg)
 
 ## Paragraphs :
 
