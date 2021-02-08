@@ -68,15 +68,67 @@ When we specify the width of a box, any padding or margin should be added to the
 Internet Explorer 6,has a quirk whereby it includes the padding and margins in the width of the box.
 it is the IE6 model.
 
+### Hiding boxes 'visibility':
+
+The visibility property allows you to hide boxes from users but It leaves a space where the
+element would have been.
+
+This property can take two
+values:
+* hidden:
+This hides the element.
+* visible
+This shows the element.
+
+
+### Border images:
+
+The border-image property applies an image to the border of any box. It takes a background
+image and slices it into nine pieces. 
+
+### Box shadows :
+
+The box-shadow property allows you to add a drop shadow around a box.
+
+### Rounded corners:
+
+CSS3 introduces the ability to create rounded corners on any box, using a property called
+border-radius. The value indicates the size of the radius in pixels.
+
+### border-radius:
+
+To create more complex shapes, you can specify different distances for the horizontal and
+the vertical parts of the rounded corners.
+
 # Review for Chapter 2 : Basic JavaScript Instruction:
 
+#### An array is a special type of variable. It doesn't just store one value; it stores a list of values. 
 
-
+You create an array and give it a name just like you would any other variable.
+The values are assigned to the array inside a pair of square brackets, and each value is
+separated by a comma. The values in the array do not need to be the same data type, so you
+can store a string, a number and a Boolean all in the same array. 
 
 
 
 
 # Chapter 4: Decisions and Loops:
+
+
+### Switch statement:
+
+A switch statement starts with a variable called the switch value. Each case indicates a possible
+value for this variable and the code that should run if the variable matches that value. 
+
+### Loops:
+
+* for
+* while
+* do while
+
+
+
+
 
 
 
