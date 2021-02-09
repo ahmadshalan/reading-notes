@@ -5,6 +5,7 @@
 types of lists:
 
 ### Ordered lists 
+
 are lists where each item in the list is numbered. The ordered list is created with the <'ol'> element.
 
 ### Unordered lists 
@@ -121,7 +122,7 @@ A switch statement starts with a variable called the switch value. Each case ind
 value for this variable and the code that should run if the variable matches that value. 
 
 ### Loops:
-
+'.
 * for
 * while
 * do while
