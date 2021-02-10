@@ -83,8 +83,8 @@ The <figcaption> element has been added to HTML5 in order to allow web page auth
 a caption to an image.
 
 
+## Chapter 11 colors
 
-# Chapter 11 colors
 The color property allows you to specify the color of text inside an element. You can specify any
 color in CSS in one of three ways:
 1. rgb values
@@ -108,6 +108,7 @@ but adds a fourth value to indicate opacity.
 The hsl color property has been introduced in CSS3 as an alternative way to specify colors.
 The value of the property starts with the letters hsl, followed by individual values inside
 parentheses for:
+
 1. hue
 This is expressed as an angle (between 0 and 360 degrees).
 2. saturation
@@ -115,5 +116,32 @@ This is expressed as a percentage.
 3. lightness
 This is expressed as a percentage with 0% being white, 50% being normal, and 100% being black.
 
-# Chapter 12 Text
+## Chapter 12 Text
+
+![img3](201\typeface.png)
+
+![img4](201\The XYZ.png)
+
+### Units of Type Size
+
+Setting font size in pixels is the best way to ensure that the type appears at the size you intended
+(because percentages and ems are more likely to vary if a user has changed the default size of
+text in their browser). Pixels are relative to the resolution of the screen, so the same type size will look larger
+when a screen has a resolution of 800x600 than it would when it is 1280x800.
+You can also use pt for point sizes instead of px for pixels, but you should only do this when
+creating style sheets for printerfriendly versions of pages. The default size of text in a
+web browser is 16 pixels. Using percentages of this amount, you can create a scale where the default text size is 12 pixels, and headings are sized in relation to this.
+It is possible for users to change the default size of text in their web browsers. If they have done this, the fonts will be displayed at the same scale that the designer intended, but at a larger size.
+Ems allow you to change the size of text relative to the size of the text in the parent element. Since
+the default size of text in web
+browsers is 16 pixels, you can use similar rules to those shown for percentages.
+Because users can change the default size of text in their browser, the fonts could all appear larger (or smaller) than
+the designer intended. The extra p rule above is to help Internet Explorer 6 and 7 display the fonts at the right size.
+Without this extra rule, IE6 and IE7 exaggerate the relative sizes
+of other text. 
+Pixels Percentages Ems
+
+### Bold font-weight
+
+### Italic font Style
 
