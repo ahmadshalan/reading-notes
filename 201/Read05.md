@@ -123,9 +123,9 @@ This is expressed as a percentage with 0% being white, 50% being normal, and 100
 
 ## Chapter 12 Text
 
-![img3](201\typeface.png)
+![img3](201/typeface.png)
 
-![img4](201\The XYZ.png)
+![img4](201/The XYZ.png)
 
 ### Units of Type Size
 
