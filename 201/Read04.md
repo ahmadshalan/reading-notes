@@ -6,13 +6,13 @@ one web page to another — enabling the very idea of browsing or surfing.
 
 ## Writing Links
 
-Links are created using the <a> element. Users can click on anything between the opening <a> tag 
-and the closing </a> tag. You specify which page you want to link to using the href attribute.
+Links are created using the <'a'> element. Users can click on anything between the opening <'a'> tag 
+and the closing <'/a'> tag. You specify which page you want to link to using the href attribute.
 
 ## Linking to Other Sites
 
-Users can click on anything that appears between the opening <a> tag and the closing
- </a> tag and will be taken to the page specified in the href attribute.
+Users can click on anything that appears between the opening <'a'> tag and the closing
+ <'/a'> tag and will be taken to the page specified in the href attribute.
 
 ## Linking to othe pages on websites.
 
@@ -23,18 +23,18 @@ You can use a shorthand known as a relative URL.
 On larger websites it's a good idea to organize your code by placing the pages for each different 
 section of the site into a new folder. Folders on a website are sometimes referred to as directories.
 
-![img](https://drive.google.com/file/d/1LIiawUVVxZZuBW62juCXHbBnesnjW0NQ/view?usp=sharing)
+![img5](https://drive.google.com/file/d/1LIiawUVVxZZuBW62juCXHbBnesnjW0NQ/view?usp=sharing)
 
 ## Relatives URL 
 Relative URLs can be used when linking to pages within your own website. They provide a shorthand way
 of telling the browser where to find your files.
 
-![img](https://drive.google.com/file/d/1PBcJgBL9Oqy7mxscthDSPVBcO3qSnn3P/view?usp=sharing)
+![img6](https://drive.google.com/file/d/1PBcJgBL9Oqy7mxscthDSPVBcO3qSnn3P/view?usp=sharing)
 
 ## Email Links
 
 we use the mailto:.
-![img](https://drive.google.com/file/d/1PBcJgBL9Oqy7mxscthDSPVBcO3qSnn3P/view?usp=sharing)
+![img7](https://drive.google.com/file/d/1PBcJgBL9Oqy7mxscthDSPVBcO3qSnn3P/view?usp=sharing)
 
 ## Opening Links in a New Window
 use 'target' If you want a link to open in a new window, you can use the
@@ -89,12 +89,12 @@ of a script repeat the same task, you can reuse the function.
 
 ### Declaring a function:
 
-![img](https://drive.google.com/file/d/1qE6J2iJF6pNSg5ObDtA3zGhV3KWVb2_S/view?usp=sharing)
+![img10](https://drive.google.com/file/d/1qE6J2iJF6pNSg5ObDtA3zGhV3KWVb2_S/view?usp=sharing)
 
 
 ### Calling a function:
 
-![img](https://drive.google.com/file/d/1L7eGVXfbQw7hPF56s7l3Ie_u4S-KcVes/view?usp=sharing)
+![img11](https://drive.google.com/file/d/1L7eGVXfbQw7hPF56s7l3Ie_u4S-KcVes/view?usp=sharing)
 
 
 # Article: 6 Reasons for Pair Programming
