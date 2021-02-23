@@ -60,11 +60,11 @@ of that box) is presented.
 * CSS works by associating rules with HTML elements. These rules govern how the content of specified
  elements should be displayed. A CSS rule contains two parts: a *selector* and a *declaration*.
 
- ![img](/mnt/c/Users/engas/102/reading-notes/CSS rule.jpg)
+ ![img](201/img/CSS rule.jpg)
 
  * CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value,
   separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
- ![img](/mnt/c/Users/engas/102/reading-notes/Ex.jpg)
+ ![img](/mnt/c/Users/engas/102/reading-notes/201/img/Ex.jpg)
 
  ## Using External CSS:
 
