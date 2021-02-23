@@ -10,7 +10,7 @@ that something you have written is a quotation (and who said it), the meaning of
 
 
 ## Headings :
-![img](201/headings.jpg)
+![img](../201/img/headings.jpg)
 
 ## Paragraphs :
 
@@ -60,11 +60,11 @@ of that box) is presented.
 * CSS works by associating rules with HTML elements. These rules govern how the content of specified
  elements should be displayed. A CSS rule contains two parts: a *selector* and a *declaration*.
 
- ![img](201/img/CSS rule.jpg)
+ ![img](../201/img/CSSrule.jpg)
 
  * CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value,
   separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
- ![img](/mnt/c/Users/engas/102/reading-notes/201/img/Ex.jpg)
+ ![img](../201/img/Ex.jpg)
 
  ## Using External CSS:
 
@@ -80,7 +80,7 @@ which usually sits inside the <head> element of the page.
 
 ## CSS Selectors:
 
-![img](/mnt/c/Users/engas/102/reading-notes/CSS Selectors.jpg)
+![img](../201/img/CSSrule.jpg)
 
 # Chapter 2 : Basic JavaCript Instructions
 
