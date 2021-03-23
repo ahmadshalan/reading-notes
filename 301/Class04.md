@@ -25,3 +25,5 @@ For example, we can set it to -1 to specify the first grid line from the right.)
 ### if grid items aren't explicitly placed with grid-area, grid-column, grid-row, etc., they are automatically placed according to their order in the source code. We can override this using the order property, which is one of the advantages of grid over table-based layout.
 
 ### Grid also introduces a new unit, the fractional fr. Each fr unit allocates one share of the available space. For example, if two elements are set to 1fr and 3fr respectively, the space is divided into 4 equal shares; the first element occupies 1/4 and the second element 3/4 of any leftover space.
+
+### grid-template is a shorthand property that combines grid-template-rows and grid-template-columns.
